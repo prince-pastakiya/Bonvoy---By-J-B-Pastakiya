@@ -2,6 +2,9 @@ Bonvoy is a hotel room discovery platform built with Next.js. This project
 provides a user-friendly interface for users to explore and find the best hotel
 rooms.
 
+![Screenshot 2024-04-02 182742](https://github.com/user-attachments/assets/366f83a5-d4b5-4fd3-82be-54f3d06b76f2)
+
+
 ## Getting Started
 
 First, run the development server:
