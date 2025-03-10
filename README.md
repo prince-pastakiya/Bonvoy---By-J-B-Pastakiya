@@ -1,4 +1,4 @@
-Bonvoy is a hotel room discovery platform built with Next.js. This project
+Roomify is a hotel room discovery platform built with Next.js. This project
 provides a user-friendly interface for users to explore and find the best hotel
 rooms.
 
