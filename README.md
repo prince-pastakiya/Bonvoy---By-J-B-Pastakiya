@@ -2,7 +2,8 @@ Roomify is a hotel room discovery platform built with Next.js. This project
 provides a user-friendly interface for users to explore and find the best hotel
 rooms.
 
-![Screenshot 2024-04-02 182742](https://github.com/user-attachments/assets/366f83a5-d4b5-4fd3-82be-54f3d06b76f2)
+
+![Screenshot 2025-03-10 180839](https://github.com/user-attachments/assets/57175698-a645-4f80-be74-f30db9d95291)
 
 
 ## Getting Started
